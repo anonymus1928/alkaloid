@@ -21,7 +21,7 @@ jobs:
         run: npm install
 
       - name: NPM Build
-        run: npm build
+        run: npm run build
 
       - name: Generate APP Key
         run: php artisan key:generate
@@ -44,4 +44,4 @@ jobs:
 
 
 
-      
+
