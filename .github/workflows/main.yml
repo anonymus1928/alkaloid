@@ -1,4 +1,4 @@
-name: Laravelllll Test CI
+name: Laravel Test CIIIIIIII
 on:
   push:
     branches:
